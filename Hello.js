@@ -1,9 +1,5 @@
-import React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-} from 'react-native';
+import React from "react";
+import { StyleSheet, View, Text } from "react-native";
 
 export default class Hello extends React.Component {
   render() {
@@ -17,7 +13,7 @@ export default class Hello extends React.Component {
 
 const styles = StyleSheet.create({
   hello: {
-    backgroundColor: '#00FF00',
+    backgroundColor: "#00FF00",
     fontSize: 24,
   },
 });

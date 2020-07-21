@@ -4,7 +4,7 @@
   "plugins": ["react", "jsx-a11y", "import"],
   "rules": {
     "react/jsx-filename-extension": ["off"],
-    "no-undef": ["error"],
+    "no-undef": ["error"]
   },
   "globals": {
     "it": 0,
